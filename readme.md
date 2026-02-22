@@ -73,3 +73,41 @@ Shown above is the heat map of the various factors affecting other various facto
 # 5.  Flow Chart
 <img width="330" height="430" alt="Collect the data set for the project (2) flow chart" src="https://github.com/user-attachments/assets/dbee1f23-b878-4f2b-9cf3-48defe14edf1" />
 
+# 6.  Result
+ After filling in all the necessary details asked in the UI form, we got the prediction of life expectancy. The accuracy of our model was 94.41%
+
+
+Screenshot of the prediction of life expectancy obtained
+
+# 7.  Advantages and Disadvantages
+### Advantages :
+1.  Easily identifies trends and patterns
+2.  Wide Applications
+3.  Handling multi-dimensional and multi-variety data
+4.  No human intervention is needed (automation)
+5.  Continuous Improvement
+
+### Disadvantages :
+1.  High error-susceptibility
+2.  Needs a lot of time to implement
+3.  Interpreting the results accurately
+4.  Data set collection is a complex task
+  
+# 8.  Applications 
+ 1. The form created is easy to understand and is easy to fill by anyone.
+ 2. It can be used for monitoring health conditions in a particular country
+ 3. It can be used to get the data about the factor affecting Life expectancy the most in order to work in the direction of obtaining a high life expectancy
+ 4. It can be used to develop statistics for a country’s development process
+
+# 9. Conclusions
+This user interface enables any user to predict the life expectancy value of anyone on the basis of the details asked in the form.
+
+# 10. Future Scope
+ 1. Increase model accuracy
+ 2. Gives suggestions on how to increase Life Expectancy
+ 3. Mental health data was missing from the WHO data set which also plays the important role in affecting life expectancy
+ 4. The scalability and flexibility of the application can be
+
+
+
+
