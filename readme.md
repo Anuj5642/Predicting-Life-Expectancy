@@ -1,3 +1,5 @@
+[Note: The UI and NodeJs integration is pending will update soon]
+
 ### Project schedule: 
    1. Understanding what to do in the above-given Predicting Life Expectancy Project
    2. Identify and get familiar with the tools needed to complete this project
