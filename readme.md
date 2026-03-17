@@ -1,4 +1,4 @@
-[Note: The UI and NodeJs integration is pending will update soon]
+[Note: The UI and Node-Red integration is pending will update soon]
 
 ### Project schedule: 
    1. Understanding what to do in the above-given Predicting Life Expectancy Project
