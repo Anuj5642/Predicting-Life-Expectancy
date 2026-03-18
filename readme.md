@@ -111,5 +111,7 @@ This user interface enables any user to predict the life expectancy value of any
  4. The scalability and flexibility of the application can be
 
 
-
+# Author
+**Anuj Gupta**  
+GitHub: https://github.com/Anuj5642
 
